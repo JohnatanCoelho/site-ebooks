@@ -6,6 +6,11 @@ font-family:Arial,sans-serif;
 background:#0f172a;
 color:#fff;
 line-height:1.6;
+text-decoration: none;
+}
+a{
+    text-decoration: none;
+    color: #111;
 }
 .wrapper{
 max-width:1200px;
@@ -83,4 +88,10 @@ background:#fbbf24;
 padding:.8rem 1rem;
 border-radius:8px;
 font-weight:bold;
+}
+.autor{
+    margin-top: -5%;
+}
+article img{
+    border-radius: 20px;
 }
